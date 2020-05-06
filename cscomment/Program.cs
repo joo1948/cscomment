@@ -13,9 +13,9 @@ namespace cscomment
             int x, y;
             Console.WriteLine("--숫자를 입력해--");
             Console.Write("x: ");
-            x = int.Parse(Console.ReadLine());//입력
+            x = int.Parse(Console.ReadLine());//입력~
             Console.Write("y: ");
-            y = int.Parse(Console.ReadLine());//입력
+            y = int.Parse(Console.ReadLine());//입력~
 
             if (x > 4)
             {
